@@ -19,9 +19,8 @@ return {
         lua_ls = {},        -- Lua
         pyright = {},       -- Python
         ts_ls = {},      -- TypeScript/JavaScript
-        rust_analyzer = {}, -- Rust
-        gopls = {},        -- Go
         clangd = {},       -- C/C++
+        csharp_ls = {},
       }
 
       -- Setup mason-lspconfig
